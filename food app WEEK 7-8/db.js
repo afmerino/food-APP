@@ -35,13 +35,13 @@ function set_new_item(item_name, item_count){
     
 
 
-    var express = require('express')
-    var app = express()
+    // var express = require('express')
+    // var app = express()
     
-    // respond with "hello world" when a GET request is made to the homepage
-    app.get('/', function (req, res) {
-      res.send('you have accessed the index page')
-    })
+    // // respond with "hello world" when a GET request is made to the homepage
+    // app.get('/', function (req, res) {
+    //   res.send('you have accessed the index page')
+    // })
     
     
 //     module.exports = get_all_inventory, set_new_item {
